@@ -1,2 +1,3 @@
 # Acoustic-guitar-shopping-coding-competition
-this code made in name of Saparachinee Trang
+This code made in name of Saparachinee Trang
+By Mr. Tankul Nilpaksri and Mrs. Napassaranun Pipatwarakul
